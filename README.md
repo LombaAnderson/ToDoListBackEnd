@@ -1,4 +1,4 @@
-# Aplicação BackEnd ToDoList AspNet Core React-Mysql
+# Aplicação BackEnd ToDoList AspNet Core com Mysql 
 
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/LombaAnderson/ToDoListBackEnd/blob/main/LICENSE)
 
@@ -21,7 +21,7 @@ um CRUD com adição, busca, atualização e deleção de anotações(Como se po
 
 # Como executar o projeto
 
-Foi utilizada a IDE Visual Studio 2022
+Foi utilizada a IDE Visual Studio 2022 e Dotnet Core 5.0 
 
 # Clonar repositório
 git clone https://github.com/lombaAnderson/ToDoListBackEnd

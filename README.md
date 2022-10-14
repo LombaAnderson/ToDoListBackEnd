@@ -21,7 +21,7 @@ um CRUD com adição, busca, atualização e deleção de anotações(Como se po
 
 # Como executar o projeto
 
-Foi utilizada a IDE Visual Studio 2022 e Dotnet Core 5.0.100
+## Foi utilizada a IDE Visual Studio 2022 e Dotnet Core 5.0.100
 Para mudar o SDK Global : dotnet new globaljson --sdk-version 5.0.100
 
 # Clonar repositório
